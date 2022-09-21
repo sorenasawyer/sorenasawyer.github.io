@@ -1,0 +1,32 @@
+							<!-- <div class="col-lg-3 col-md-6 pt-5">
+								<div class="fact-box trans">
+									<div class="fact-content">
+										<div class="circle-progress">
+											<div id="progress4" class="prog-circle"></div>
+											<div class="progress-info">
+												<h2>JavaScript</h2>
+											</div>
+											<div class="prog-title">
+												<h3>JavaScript</h3>
+												<p>Etiam nec odio vestibulum est.</p>
+											</div>			
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-6 pt-5">
+								<div class="fact-box trans">
+									<div class="fact-content">
+										<div class="circle-progress">
+											<div id="progress3" class="prog-circle"></div>
+											<div class="progress-info">
+												<h2>Python</h2>
+											</div>
+											<div class="prog-title">
+												<h3>Python</h3>
+												<p>Etiam nec odio vestibulum est.</p>
+											</div>			
+										</div>
+									</div>
+								</div>
+							</div> -->
